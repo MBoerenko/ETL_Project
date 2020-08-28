@@ -41,6 +41,10 @@ img {
 h1 {
     color:darkgoldenrod;
 }
+
+h3 {
+    color:white;
+}
 .box{
     margin-top: 30px;
     margin-bottom: 30px;
